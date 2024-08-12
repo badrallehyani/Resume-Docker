@@ -1,0 +1,47 @@
+{
+    "first_name": "Badr",
+    "last_name": "Al-Lehyani",
+    "phone_number": "+966 551096026",
+    "email": "badr.a.allehyani@gmail.com",
+    "description": "I am a Web Developer.",
+    
+    "linkedIn": "",
+    "github": "https://github.com/badrallehyani",
+    "twitter": "https://x.com/BadrLehyaniDev",
+
+    "skills": [
+        "JS: NodeJS - ReactJS - ExpressJS - Pug - NPM",
+        "Python: Flask - FastAPI",
+        "C#: Blazor Web Assembly - ASP.NET Core WebAPI",
+        "PHP",
+        "<hr style='width: 20%'>",
+        "HTML/CSS",
+        "<hr style='width: 20%'>",
+        "SQL: MySQL",
+        "NoSQL: Redis"
+    ],
+
+    "projects": [
+        {
+            "title": "Habit Tracker",
+            "desc": "Tracks your Daily Habits and Tracks your Streak in those Habits.",
+            "tech": "C# Blazor WebAssembly & ASP.NET Core WebAPI. NoSQL Database Redis.",
+            "tweet": "https://x.com/BadrLehyaniDev/status/1814782235595448691",
+            "source": "https://github.com/badrallehyani/Habit-Tracker"
+        },
+        {
+            "title": "Torrent Download Manager",
+            "desc": "A Simple Torrent Manager. It has several ways to add a new download. Such as, One-URL download, Multi-URLs download, Using Nyaa.si Search Keyword to fetch multiple files from it, and more!",
+            "tech": "Python FastAPI, ReactJS, Aria2.",
+            "tweet": null,
+            "source": "https://github.com/badrallehyani/Torrent-Download-Manager"
+        },
+        {
+            "title": "This Resume",
+            "desc": "startbootstrap-resume Resume Template with some edits to make it easily updatable.",
+            "tech": "PHP",
+            "tweet": null,
+            "source": "https://github.com/badrallehyani/Resume"
+        }
+    ]
+}
